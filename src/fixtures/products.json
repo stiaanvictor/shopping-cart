@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Shirt",
+    "price": "40",
+    "color": "red"
+  },
+  {
+    "name": "Shirt",
+    "price": "55",
+    "color": "blue"
+  },
+  {
+    "name": "Pants",
+    "price": "35",
+    "color": "grey"
+  },
+  {
+    "name": "Pants",
+    "price": "30",
+    "color": "blue"
+  },
+  {
+    "name": "Shoes",
+    "price": "55",
+    "color": "white"
+  },
+  {
+    "name": "Shoes",
+    "price": "70",
+    "color": "black"
+  },
+  {
+    "name": "Socks",
+    "price": "10",
+    "color": "green"
+  },
+  {
+    "name": "Socks",
+    "price": "10",
+    "color": "yellow"
+  },
+  {
+    "name": "Hoodie",
+    "price": "45",
+    "color": "blue"
+  },
+  {
+    "name": "Hoodie",
+    "price": "30",
+    "color": "white"
+  },
+  {
+    "name": "hat",
+    "price": "15",
+    "color": "green"
+  }
+]
